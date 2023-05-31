@@ -1,0 +1,11 @@
+Below is a history of the conversation so far, user is doing {transaction} and a new answer is given the answer must be defined exactly as one of the following categories:
+- transaction_is_finished
+- transaction_is_not_finished
+ 
+Chat History:
+{chat_history}
+
+Answer:
+{answer}
+
+category:

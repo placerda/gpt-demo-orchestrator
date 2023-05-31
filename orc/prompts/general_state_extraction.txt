@@ -1,0 +1,12 @@
+Below is a phrase sent by the customer in a conversation. The current conversation state must be defined exactly as one of the following categories:
+- question_answering
+- greetings
+- could_not_define
+
+Conversation:
+{chat_history}
+
+Phrase:
+{question}
+
+category:
