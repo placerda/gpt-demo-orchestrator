@@ -1,0 +1,26 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "",
+
+    "AZURE_SEARCH_SERVICE": "",
+    "AZURE_SEARCH_INDEX": "gptkbindex",
+    "AZURE_SEARCH_KEY": "",
+    "KB_FIELDS_CONTENT": "content",
+    "KB_FIELDS_CATEGORY": "category",
+    "KB_FIELDS_SOURCEPAGE": "sourcefile",
+    
+    "AZURE_DB_URI": "",
+    "AZURE_DB_KEY": "",
+    "AZURE_DB_ID": "",
+    "AZURE_DB_CONTAINER": "conversations",
+    
+    "AZURE_OPENAI_SERVICE": "",
+    "AZURE_OPENAI_GPT_DEPLOYMENT": "davinci",
+    "AZURE_OPENAI_GPT35TURBO_DEPLOYMENT": "chat",
+    "AZURE_OPENAI_CHATGPT_DEPLOYMENT": "gpt4",
+    "AZURE_OPENAI_CHATGPT_LIMIT": "8192",
+    "AZURE_OPENAI_KEY": "" 
+  }
+}

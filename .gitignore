@@ -12,6 +12,7 @@ local.settings.json
 .python_packages/
 .venv/
 .env
+.semantic-kernel/
 
 *.user
 *.suo

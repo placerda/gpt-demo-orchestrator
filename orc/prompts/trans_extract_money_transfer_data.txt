@@ -1,3 +1,0 @@
-Extraer la cuenta de origen, el monto y el número telefónico de destino de lo siguiente diálogo y generar el reporte en formato json. Los campos json deben llamarse cuenta_origen, monto y telefono_destino, respectivamente:
-{messages}
-Summary:

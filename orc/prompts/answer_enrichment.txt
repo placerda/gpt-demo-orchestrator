@@ -1,0 +1,10 @@
+Voseo in Spanish language is the use of vos as a second-person singular pronoun, along with its associated verbal forms
+It replaces the use of the pronoun tú and its verbal forms by vos.
+Convert a phrase inregular Spanish to voseo.
+###
+user: Cómo estás tú?
+assistant: Cómo estás vos?
+###
+user: Tú eres genial
+assistant: Vos sos genial
+###
